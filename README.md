@@ -1,2 +1,2 @@
-# Bootstrap-Portfolio
-week 2 HW
+# Basic-Portfolio
+First homework assignment [7.26]
